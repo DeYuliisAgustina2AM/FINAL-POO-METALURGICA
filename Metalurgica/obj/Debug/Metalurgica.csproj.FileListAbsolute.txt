@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\bin\Debug\Metalurgica.exe.config
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\bin\Debug\Metalurgica.exe
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\bin\Debug\Metalurgica.pdb
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.Principal.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.Properties.Resources.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.csproj.GenerateResource.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.exe
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.pdb
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.AdministrarClientes.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.AdministrarVentas.resources
