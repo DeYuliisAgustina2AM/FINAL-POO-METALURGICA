@@ -63,6 +63,16 @@ namespace Metalurgica.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Agregar_Productos {
+            get {
+                object obj = ResourceManager.GetObject("Agregar_Productos", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Boton_Cerrar {
             get {
                 object obj = ResourceManager.GetObject("Boton Cerrar", resourceCulture);
@@ -76,6 +86,26 @@ namespace Metalurgica.Properties {
         internal static System.Drawing.Bitmap Clientes {
             get {
                 object obj = ResourceManager.GetObject("Clientes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Comprar_Producto {
+            get {
+                object obj = ResourceManager.GetObject("Comprar_Producto", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Infromacion {
+            get {
+                object obj = ResourceManager.GetObject("Infromacion", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

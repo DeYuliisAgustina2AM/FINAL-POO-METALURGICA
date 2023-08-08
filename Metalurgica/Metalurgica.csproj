@@ -46,49 +46,85 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdministrarClientes.cs">
+    <Compile Include="Formularios\AdministrarClientes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AdministrarClientes.Designer.cs">
+    <Compile Include="Formularios\AdministrarClientes.Designer.cs">
       <DependentUpon>AdministrarClientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="AdministrarVentas.cs">
+    <Compile Include="Formularios\AdministrarProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AdministrarVentas.Designer.cs">
+    <Compile Include="Formularios\AdministrarProductos.Designer.cs">
+      <DependentUpon>AdministrarProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AdministrarProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AdministrarProveedores.Designer.cs">
+      <DependentUpon>AdministrarProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AdministrarCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AdministrarCompras.Designer.cs">
+      <DependentUpon>AdministrarCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AdministrarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AdministrarVentas.Designer.cs">
       <DependentUpon>AdministrarVentas.cs</DependentUpon>
     </Compile>
-    <Compile Include="Principal.cs">
+    <Compile Include="Formularios\Informacion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Principal.Designer.cs">
+    <Compile Include="Formularios\Informacion.Designer.cs">
+      <DependentUpon>Informacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Principal.Designer.cs">
       <DependentUpon>Principal.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AdministrarClientes.resx">
+    <EmbeddedResource Include="Formularios\AdministrarClientes.resx">
       <DependentUpon>AdministrarClientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AdministrarVentas.resx">
+    <EmbeddedResource Include="Formularios\AdministrarProductos.resx">
+      <DependentUpon>AdministrarProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AdministrarProveedores.resx">
+      <DependentUpon>AdministrarProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AdministrarCompras.resx">
+      <DependentUpon>AdministrarCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AdministrarVentas.resx">
       <DependentUpon>AdministrarVentas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Principal.resx">
+    <EmbeddedResource Include="Formularios\Informacion.resx">
+      <DependentUpon>Informacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -115,6 +151,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Productos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo\Modelo.csproj">
+      <Project>{6b9c98b8-9e19-42b2-9c30-49608dccd3d7}</Project>
+      <Name>Modelo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar Productos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comprar Producto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Infromacion.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

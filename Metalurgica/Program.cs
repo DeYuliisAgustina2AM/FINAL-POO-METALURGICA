@@ -16,7 +16,7 @@ namespace Metalurgica
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AdministrarVentas());
+            Application.Run(new Principal());
         }
     }
 }

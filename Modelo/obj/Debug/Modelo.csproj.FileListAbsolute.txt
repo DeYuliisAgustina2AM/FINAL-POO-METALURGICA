@@ -4,3 +4,33 @@ C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Modelo\obj\D
 C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Modelo\obj\Debug\Modelo.dll
 C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Modelo\obj\Debug\Modelo.pdb
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.dll
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.pdb
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.dll
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.dll
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.dll
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.pdb
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.dll
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.pdb
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.dll
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.dll
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.dll
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.pdb
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.dll
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\bin\Debug\Modelo.pdb
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.dll
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Modelo\obj\Debug\Modelo.pdb

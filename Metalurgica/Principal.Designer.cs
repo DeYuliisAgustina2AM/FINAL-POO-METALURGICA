@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.CerrarBtn = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.BtnProveedores = new System.Windows.Forms.Button();
-            this.BtnProductos = new System.Windows.Forms.Button();
-            this.BtnClientes = new System.Windows.Forms.Button();
-            this.BtnVentas = new System.Windows.Forms.Button();
-            this.BtnCerrar = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.ProveedoresBtn = new System.Windows.Forms.Button();
+            this.ProductosBtn = new System.Windows.Forms.Button();
+            this.ClientesBtn = new System.Windows.Forms.Button();
+            this.VentasBtn = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -44,7 +44,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Gray;
-            this.panel1.Controls.Add(this.BtnCerrar);
+            this.panel1.Controls.Add(this.CerrarBtn);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.pictureBox1);
@@ -52,6 +52,18 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1054, 139);
             this.panel1.TabIndex = 0;
+            // 
+            // CerrarBtn
+            // 
+            this.CerrarBtn.BackColor = System.Drawing.Color.Gray;
+            this.CerrarBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.CerrarBtn.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.CerrarBtn.Image = global::Metalurgica.Properties.Resources.Boton_Cerrar;
+            this.CerrarBtn.Location = new System.Drawing.Point(822, 5);
+            this.CerrarBtn.Name = "CerrarBtn";
+            this.CerrarBtn.Size = new System.Drawing.Size(29, 27);
+            this.CerrarBtn.TabIndex = 3;
+            this.CerrarBtn.UseVisualStyleBackColor = false;
             // 
             // label2
             // 
@@ -73,73 +85,6 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Métallon s.r.l";
             // 
-            // BtnProveedores
-            // 
-            this.BtnProveedores.BackColor = System.Drawing.Color.Gray;
-            this.BtnProveedores.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnProveedores.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnProveedores.Image = global::Metalurgica.Properties.Resources.Proveedores1;
-            this.BtnProveedores.Location = new System.Drawing.Point(227, 318);
-            this.BtnProveedores.Name = "BtnProveedores";
-            this.BtnProveedores.Size = new System.Drawing.Size(120, 120);
-            this.BtnProveedores.TabIndex = 4;
-            this.BtnProveedores.Text = "PROOVEDORES";
-            this.BtnProveedores.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnProveedores.UseVisualStyleBackColor = false;
-            // 
-            // BtnProductos
-            // 
-            this.BtnProductos.BackColor = System.Drawing.Color.Gray;
-            this.BtnProductos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnProductos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnProductos.Image = global::Metalurgica.Properties.Resources.Productos1;
-            this.BtnProductos.Location = new System.Drawing.Point(528, 318);
-            this.BtnProductos.Name = "BtnProductos";
-            this.BtnProductos.Size = new System.Drawing.Size(120, 120);
-            this.BtnProductos.TabIndex = 3;
-            this.BtnProductos.Text = "PRODUCTOS\r\n";
-            this.BtnProductos.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnProductos.UseVisualStyleBackColor = false;
-            // 
-            // BtnClientes
-            // 
-            this.BtnClientes.BackColor = System.Drawing.Color.Gray;
-            this.BtnClientes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnClientes.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnClientes.Image = global::Metalurgica.Properties.Resources.Clientes;
-            this.BtnClientes.Location = new System.Drawing.Point(227, 152);
-            this.BtnClientes.Name = "BtnClientes";
-            this.BtnClientes.Size = new System.Drawing.Size(120, 120);
-            this.BtnClientes.TabIndex = 2;
-            this.BtnClientes.Text = "CLIENTES";
-            this.BtnClientes.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.BtnClientes.UseVisualStyleBackColor = false;
-            // 
-            // BtnVentas
-            // 
-            this.BtnVentas.BackColor = System.Drawing.Color.Gray;
-            this.BtnVentas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnVentas.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnVentas.Image = global::Metalurgica.Properties.Resources.Ventas;
-            this.BtnVentas.Location = new System.Drawing.Point(528, 152);
-            this.BtnVentas.Name = "BtnVentas";
-            this.BtnVentas.Size = new System.Drawing.Size(120, 120);
-            this.BtnVentas.TabIndex = 1;
-            this.BtnVentas.Text = "VENTAS";
-            this.BtnVentas.UseVisualStyleBackColor = false;
-            // 
-            // BtnCerrar
-            // 
-            this.BtnCerrar.BackColor = System.Drawing.Color.Gray;
-            this.BtnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnCerrar.ForeColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.BtnCerrar.Image = global::Metalurgica.Properties.Resources.Boton_Cerrar;
-            this.BtnCerrar.Location = new System.Drawing.Point(822, 5);
-            this.BtnCerrar.Name = "BtnCerrar";
-            this.BtnCerrar.Size = new System.Drawing.Size(29, 27);
-            this.BtnCerrar.TabIndex = 3;
-            this.BtnCerrar.UseVisualStyleBackColor = false;
-            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Metalurgica.Properties.Resources.Metallon;
@@ -150,16 +95,71 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // ProveedoresBtn
+            // 
+            this.ProveedoresBtn.BackColor = System.Drawing.Color.Gray;
+            this.ProveedoresBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ProveedoresBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ProveedoresBtn.Image = global::Metalurgica.Properties.Resources.Proveedores1;
+            this.ProveedoresBtn.Location = new System.Drawing.Point(227, 318);
+            this.ProveedoresBtn.Name = "ProveedoresBtn";
+            this.ProveedoresBtn.Size = new System.Drawing.Size(120, 120);
+            this.ProveedoresBtn.TabIndex = 4;
+            this.ProveedoresBtn.Text = "PROOVEDORES";
+            this.ProveedoresBtn.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.ProveedoresBtn.UseVisualStyleBackColor = false;
+            // 
+            // ProductosBtn
+            // 
+            this.ProductosBtn.BackColor = System.Drawing.Color.Gray;
+            this.ProductosBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ProductosBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ProductosBtn.Image = global::Metalurgica.Properties.Resources.Productos1;
+            this.ProductosBtn.Location = new System.Drawing.Point(528, 318);
+            this.ProductosBtn.Name = "ProductosBtn";
+            this.ProductosBtn.Size = new System.Drawing.Size(120, 120);
+            this.ProductosBtn.TabIndex = 3;
+            this.ProductosBtn.Text = "PRODUCTOS\r\n";
+            this.ProductosBtn.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.ProductosBtn.UseVisualStyleBackColor = false;
+            // 
+            // ClientesBtn
+            // 
+            this.ClientesBtn.BackColor = System.Drawing.Color.Gray;
+            this.ClientesBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ClientesBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ClientesBtn.Image = global::Metalurgica.Properties.Resources.Clientes;
+            this.ClientesBtn.Location = new System.Drawing.Point(227, 152);
+            this.ClientesBtn.Name = "ClientesBtn";
+            this.ClientesBtn.Size = new System.Drawing.Size(120, 120);
+            this.ClientesBtn.TabIndex = 2;
+            this.ClientesBtn.Text = "CLIENTES";
+            this.ClientesBtn.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.ClientesBtn.UseVisualStyleBackColor = false;
+            // 
+            // VentasBtn
+            // 
+            this.VentasBtn.BackColor = System.Drawing.Color.Gray;
+            this.VentasBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.VentasBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.VentasBtn.Image = global::Metalurgica.Properties.Resources.Ventas;
+            this.VentasBtn.Location = new System.Drawing.Point(528, 152);
+            this.VentasBtn.Name = "VentasBtn";
+            this.VentasBtn.Size = new System.Drawing.Size(120, 120);
+            this.VentasBtn.TabIndex = 1;
+            this.VentasBtn.Text = "VENTAS";
+            this.VentasBtn.UseVisualStyleBackColor = false;
+            // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(50)))), ((int)(((byte)(48)))));
             this.ClientSize = new System.Drawing.Size(855, 450);
-            this.Controls.Add(this.BtnProveedores);
-            this.Controls.Add(this.BtnProductos);
-            this.Controls.Add(this.BtnClientes);
-            this.Controls.Add(this.BtnVentas);
+            this.Controls.Add(this.ProveedoresBtn);
+            this.Controls.Add(this.ProductosBtn);
+            this.Controls.Add(this.ClientesBtn);
+            this.Controls.Add(this.VentasBtn);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Principal";
@@ -178,11 +178,11 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button BtnCerrar;
-        private System.Windows.Forms.Button BtnVentas;
-        private System.Windows.Forms.Button BtnClientes;
-        private System.Windows.Forms.Button BtnProductos;
-        private System.Windows.Forms.Button BtnProveedores;
+        private System.Windows.Forms.Button CerrarBtn;
+        private System.Windows.Forms.Button VentasBtn;
+        private System.Windows.Forms.Button ClientesBtn;
+        private System.Windows.Forms.Button ProductosBtn;
+        private System.Windows.Forms.Button ProveedoresBtn;
     }
 }
 

@@ -11,3 +11,103 @@ C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\
 C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.pdb
 C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.AdministrarClientes.resources
 C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.AdministrarVentas.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO\Metalurgica\obj\Debug\Metalurgica.AdministrarProveedores.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe.config
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.pdb
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarClientes.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProductos.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProveedores.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarVentas.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Principal.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Properties.Resources.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.GenerateResource.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.exe
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.pdb
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.dll
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.pdb
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CopyComplete
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe.config
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.dll
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarClientes.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProductos.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProveedores.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarVentas.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Principal.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CopyComplete
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.exe
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.pdb
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe.config
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.pdb
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.dll
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.pdb
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarClientes.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProductos.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProveedores.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarVentas.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Principal.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Properties.Resources.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CopyComplete
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.exe
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.pdb
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe.config
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.pdb
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.dll
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.pdb
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.AssemblyReference.cache
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.SuggestedBindingRedirects.cache
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarClientes.resources
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProductos.resources
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProveedores.resources
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarVentas.resources
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Principal.resources
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Properties.Resources.resources
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.GenerateResource.cache
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CoreCompileInputs.cache
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CopyComplete
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.exe
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarCompras.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarCompras.resources
+C:\Users\PC\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Formularios.Informacion.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe.config
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.exe
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Metalurgica.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.dll
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\bin\Debug\Modelo.pdb
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarClientes.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProductos.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarProveedores.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarCompras.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarVentas.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Formularios.Informacion.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Principal.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.csproj.CopyComplete
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.exe
+C:\Users\valen\OneDrive\Escritorio\UAI\2do año\1er cuatrimestre\Programacion orientada a objetos\Final\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.pdb
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarCompras.resources
+C:\Users\agusp\Downloads\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Formularios.Informacion.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.AdministrarCompras.resources
+C:\Users\PC\Documents\MATERIAS UAI 2º AÑO\POO\Proyectos\FINAL POO De Yuliis - Bianchi\Metalurgica\obj\Debug\Metalurgica.Formularios.Informacion.resources
